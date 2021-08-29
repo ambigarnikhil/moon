@@ -1,3 +1,7 @@
 hi a
 i m modifying a
+<<<<<<< HEAD
 hello a, i m from master
+=======
+hello a, i m from branch b1
+>>>>>>> b1
