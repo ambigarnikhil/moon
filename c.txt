@@ -1,7 +1,3 @@
 hi c
 i m modifying c
-<<<<<<< HEAD
-hello c, i m from master
-=======
 hello c, i m from branch b1
->>>>>>> b1
